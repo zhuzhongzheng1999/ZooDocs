@@ -22,17 +22,17 @@ features:
   - title: ZooCli
     icon: light
     details: 脚手架工具
-    link: 
+    link: /ZooCli/info
 
   - title: ZooUse
     icon: leaf
     details: 前端工具集
-    link: 
+    link: /ZooUse/info
 
   - title: ZooTools
     icon: tool
     details: 后端工具集
-    link: 
+    link: /ZooTools/info
 
 copyright: false
 footer: MIT Licensed | Copyright © 2022-present zhuzhongzheng
