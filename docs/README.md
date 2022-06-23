@@ -4,7 +4,7 @@ icon: home
 title: 项目主页
 heroImage: /icon.png
 heroText: Zoo
-tagline: "Javascript前后端开发解决方案"
+tagline: "Javascript前后端开发"
 actions:
   - text: 使用指南
     link: /ZooPlayer/info
