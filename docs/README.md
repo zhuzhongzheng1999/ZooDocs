@@ -102,6 +102,10 @@ footer: MIT Licensed | Copyright © 2022-present zhuzhongzheng
       <div style="margin:5px 0px">ZooUse/debounce</div>
       <div style="margin:5px 0px;font-size:12px;color:#666;">防抖(开发中)</div>
     </div>
+    <div style="display:flex;flex-direction:column;align-items:center;width:100%">
+      <div style="margin:5px 0px">ZooUse/monitor</div>
+      <div style="margin:5px 0px;font-size:12px;color:#666;">性能监控(开发中)</div>
+    </div>
   </div>
 </div>
 
@@ -116,7 +120,7 @@ footer: MIT Licensed | Copyright © 2022-present zhuzhongzheng
       <div style="margin:5px 0px;font-size:12px;color:#666;">数据库操作(开发中)</div>
     </div>
     <div style="display:flex;flex-direction:column;align-items:center;width:100%">
-      <div style="margin:5px 0px">ZooUse/timer</div>
+      <div style="margin:5px 0px">ZooUse/excel</div>
       <div style="margin:5px 0px;font-size:12px;color:#666;">Excel操作(开发中)</div>
     </div>
   </div>

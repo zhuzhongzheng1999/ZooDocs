@@ -3,7 +3,7 @@
  * @Author: zhuzhongzheng
  * @Date: 2022-06-21 08:46:27
  * @LastEditors: zhuzhongzheng
- * @LastEditTime: 2022-06-23 21:28:39
+ * @LastEditTime: 2022-06-27 15:48:08
  */
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
@@ -14,7 +14,7 @@ export default defineUserConfig({
   title: "Zoo",
   description: "",
 
-  base: "/",
+  base: "/zoodocs/",
 
   theme
 });

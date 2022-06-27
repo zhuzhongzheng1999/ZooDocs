@@ -53,3 +53,7 @@ ZooPlayer 是由原生Javascript加Sass编写,无任何第三方运行时依赖,
 - Vue支持
 - CDN引入支持
 - 响应式数据更新
+
+## CONTRIBUTING
+
+本项目采用monorepo的方式，使用webpack进行打包(后期改rollup)
